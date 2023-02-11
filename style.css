@@ -1,0 +1,433 @@
+.nav{
+    height: 1200px;
+    width: 100%;
+    margin: 0 auto;
+    background: white;
+}
+.Header{
+    height: 40px;
+    width: 100%;
+    background-color: #dee2e6;
+    display: flex;
+    justify-content: space-around;
+    
+}
+.Header-1{
+    display: flex;
+    justify-content: center;
+    height: 40px;
+    width: 20%;
+    margin-right: 200px;
+    align-items: center;
+    /* background-color: blue; */
+}
+.phone{
+    height: 20px;
+    width:20%;
+    /* background-color: aliceblue; */
+}
+.phonenumber{
+    height: 20px;
+    width:70%;
+    margin-right: 200px;
+    /* background-color:black; */
+}
+.Header-2{
+    height: 40px;
+    width: 20%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* background-color: red; */
+    
+}
+.new{
+    height: 20px;
+    width:50%;
+    /* background-color: aliceblue; */
+}
+.coupons{
+    height: 20px;
+    width:30%;
+    color: #7F54C9;
+    border-left: solid 2px gray;
+    padding-left: 10px;
+    /* background-color:black; */
+}
+.Header-3{
+    height: 40px;
+    width: 30%;
+    display: flex;
+    justify-content:center ;
+    align-items: center;
+    /* background-color: black; */
+    
+}
+.language{
+    height: 20px;
+    width: 20%;
+    /* background-color: white; */
+    
+}
+.contact{
+    height: 20px;
+    width: 80%;
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+}
+.ulli{
+    width: 100%;
+    /* display: flex; */
+    justify-content: center;
+    align-items: center; 
+    justify-content:space-around;
+    border-left: solid 1px gray;
+    
+}
+.liul{
+   display: inline;
+   direction: none; 
+   padding-right: 34px ;
+}
+.body{
+    height: 70px;
+    width: 100%;
+    
+    display: flex;
+    align-items: center;
+
+    
+}
+.shopy{
+    height: 50px;
+    width: 20%;
+    padding-left: 40px;
+    
+}
+.shopy img{
+    display: block;
+    margin-top: 10px;
+}
+.search{
+    height: 50px;
+    width: 60%;
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.input-search{
+    border: solid 1px rgb(162, 160, 160);
+    border-radius: 5px;
+    width: 350px;
+    height:35px ;
+}
+.accout{
+    height: 50px;
+    width: 20%;
+    display: flex;
+    
+}
+.user{
+    display: flex;
+    justify-content: center;
+    height: 50px;
+    width: 10%;
+   
+}
+.user i{
+    display: flex;
+    align-items: center;
+    font-size: 25px;
+
+}
+.Signin{
+    height: 100%;
+    width: 50%;
+    
+}
+h3{
+    margin-top: 1px;
+}
+span{
+    font-size: 15px;
+    color: grey;
+}
+.skip{
+    display: flex;
+    align-items: center;
+
+    height: 50px;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    
+    
+}
+.skip-1{
+    display: flex;
+    justify-content: flex-end;
+}
+.prefe{
+    display: flex;
+    border-left: solid 5px #02A8B54D ;
+    font-size: 20px;
+    height: 30px;
+    width: 50%;
+    
+    /* background-color: aqua; */
+    
+}
+.skip-1{
+    display: flex;
+    align-items: center;
+    height: 50px;
+    width: 50%;
+    color: orangered;
+    /* background-color: red;    */
+}
+.product{
+    height: 1000px;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    /* background-color: #7F54C9; */
+}
+.six-head{
+    height: 200px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    /* background-color: black; */
+}
+.six-body{
+    height: 200px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin-top: 30px;
+    /* background-color: red; */
+}
+.product-1 {
+    margin-right: 10px;
+    height: 150px;
+    width: 150px;
+    padding: 24px;
+    border: solid 1px white;
+    border-radius: 0.25rem;
+    box-shadow: 0 4px 5px rgba(56,65,74,.15);
+}
+.product-1 img{
+    border: 0.25rem;
+    display: block;
+    height: 120px;
+    width: 120px;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+.product-1 p{
+    display: flex;
+    justify-content: center;
+}
+
+.sit-item {
+    display: flex;
+    justify-content: flex-start;
+    margin-left: -27px;
+}
+.contact-me{
+    display: block;
+    margin-top: 10px;
+    height: 500px;
+    width: 100%;
+    background-color: #323A46;
+}
+.sub__contact {
+    display: flex;
+    justify-content: space-around;
+    margin-top: -285px;
+    height: 400px;
+    width: 100%;
+    /* background-color: #7F54C9; */
+}
+.contact-me1{
+    height: 395px;
+    width: 20%;
+    /* background-color: #dee2e6; */
+}
+.contact-me2{
+    display: block;
+    height: 395px;
+    width: 20%;
+}
+.contact-me3{
+    height: 395px;
+    width: 20%;
+    display: flex;
+    margin-top: 38px;
+}
+.myul{
+    display: block;
+}
+.contact-me4{
+    height: 395px;
+    width: 20%;
+ 
+}
+.contact-me5{
+    display: flex;
+    margin-top: 283px;
+    height: 100px;
+    width: 100%;
+}
+.contact-me1 img{
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 65px;
+    height: 35px;
+    width: 170px;
+}
+.icon{
+    justify-content: center;
+    margin-top: -15px;
+    font-size: 27px;
+    width: 300px;
+    
+}
+.icon-ul{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    
+}
+.list{
+    display: block;
+    
+}
+.diachi{
+    display: flex;
+    margin-top: 72px;
+    height: 30px;
+    width: 100%;
+}
+.ngoinha{
+    display: block;
+    font-size: 17px;
+    height: 30px;
+    width: 10%;
+    color: aliceblue;
+    
+}
+.tanhiep{
+    height: 30px;
+    width: 80%;
+    font-size: 17px;
+    color: aliceblue;
+}
+.sdt{
+    height: 30px;
+    width: 100%;
+    display: flex;
+    margin-top: 10px;
+}
+.sdt1{
+    height: 30px;
+    width: 10%;
+    color: aliceblue;
+    font-size: 17px;
+}
+.sdt2{
+    height: 30px;
+    width: 80%;
+    font-size: 17px;
+    color: aliceblue;
+}
+.gmail-1{
+    display: flex;
+    height: 30px;
+    width: 100%;
+    margin-top:10px ;
+}
+.gmail-2{
+    height: 30px;
+    width: 10%;
+    font-size: 17px;
+    color: aliceblue;
+    
+}
+.gmail-3{
+    height: 30px;
+    width: 80%;
+    color: aliceblue;
+    font-size: 17px;
+}
+.myli{
+    display: block;
+    margin-top: 15px;
+    font-size: 17px;
+    color: aliceblue;
+}
+.newsletter{
+    height: 50px;
+    width: 100%;
+    font-size: 30px;
+    margin-top: 70px;
+  color: aliceblue;
+}
+.laber{
+    display: block;
+    margin-top: 15px;
+    color: aliceblue;
+    font-size: 17px;
+}
+.input-1{
+    background-color: transparent;
+    height: 50px;
+    width: 80%;
+    border-radius: 5px;
+    border: solid 1px darkgray;
+   
+}
+.ios{
+    height: 50px;
+    width: 100%;
+    display: flex;
+    margin-top: 40px;
+}
+.google{
+    height: 50px;
+    width: 50%;
+}
+.ios-1{
+    height: 50px;
+    width: 50%;
+}
+.final{
+    display: flex;
+    justify-content: center;
+    height: 50px;
+    width: 50%;
+    color: white;
+    font-size: 15px;
+}
+.visa{
+    display: flex;
+    justify-content: flex-end;
+    margin-right: 50px;
+    height: 50px;
+    width: 50%;
+}
+.visa img{
+
+    height: 40px;
+    width: 230px;
+}
+
+
+
